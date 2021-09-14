@@ -1,14 +1,12 @@
-@media only screen and (max-width: 100%){
+@media only screen and (max-width: 1000px){
   body{
   color: #40514E;
   margin: 0;
   text-align: center;
-  height:100%;
-
   font-size: 35px;
   }
-
   }
+
 h1{
 
   font-size: 90px;
