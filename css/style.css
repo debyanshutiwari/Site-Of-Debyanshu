@@ -53,6 +53,7 @@ a:hover{
 }
 
 .top-container{
+  height:100%;
   background-color: #d8f0f3;
   position: relative;
   padding-top: 150px;
