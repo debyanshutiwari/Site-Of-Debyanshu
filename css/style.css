@@ -125,7 +125,7 @@ animation-direction: alternate;
 .top-cloud ::after{
   content: "";
   position: absolute;
-  width:150px;
+  
 }
 @keyframes drive {
   from{transform: translateX(0)}
