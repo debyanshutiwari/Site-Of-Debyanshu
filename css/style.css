@@ -1,11 +1,10 @@
-@media only screen and (max-width: 1000px){
-  body{
+body{
   color: #40514E;
   margin: 0;
   text-align: center;
   font-size: 35px;
   }
-  }
+  
 
 h1{
 
@@ -92,7 +91,7 @@ a:hover{
 
 
 
-
+@media only screen and (max-width: 1000px){
 .bottom-cloud{
   position: absolute;
   left: 300px;
@@ -101,7 +100,7 @@ a:hover{
 
   animation-iteration-count: infinite;
 animation-direction: alternate;
-
+  }
 }
 @keyframes drive {
   from{transform: translateX(0)}
@@ -126,10 +125,11 @@ animation-direction: alternate;
 
 
 }
+@media only screen and (max-width: 1000px){
 .top-cloud ::after{
   content: "";
   position: absolute;
-  
+  }
 }
 @keyframes drive {
   from{transform: translateX(0)}
@@ -181,11 +181,7 @@ animation-direction: alternate;
 .interaction:hover{
   background: salmon;
 }
-@media screen and (max-width:700px){
-  #top-container{
-    width: 100%;
-  }
-}
+
 
 
 .btn {
