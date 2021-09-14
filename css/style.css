@@ -67,6 +67,7 @@ a:hover{
 .bottom-container{
   background-color: #66BFBF;
   width:200px;
+  text-align:centre;
   
 }
 .pro{
@@ -180,8 +181,7 @@ animation-direction: alternate;
 .interaction:hover{
   background: salmon;
 }
-.footer-link{
-  text-align:centre;
+
 
 .btn {
   background: #11cdd4;
