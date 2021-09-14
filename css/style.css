@@ -68,7 +68,8 @@ a:hover{
 }
 .bottom-container{
   background-color: #66BFBF;
-  width:50%;
+  width:200px;
+  height:200px;
 }
 .pro{
   text-decoration: underline;
