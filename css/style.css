@@ -183,7 +183,7 @@ animation-direction: alternate;
   background: salmon;
 }
 @media screen and (max-width:700px){
-  .top-container{
+  top-container{
     width: 100%;
   }
 }
