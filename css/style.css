@@ -91,7 +91,7 @@ a:hover{
 
 
 
-@media only screen and (max-width: 1000px){
+
 .bottom-cloud{
   position: absolute;
   left: 300px;
@@ -101,7 +101,7 @@ a:hover{
   animation-iteration-count: infinite;
 animation-direction: alternate;
   }
-}
+
 @keyframes drive {
   from{transform: translateX(0)}
   to{transform:  translateX(800px)}
@@ -125,12 +125,12 @@ animation-direction: alternate;
 
 
 }
-@media only screen and (max-width: 1000px){
+
 .top-cloud ::after{
   content: "";
   position: absolute;
   }
-}
+
 @keyframes drive {
   from{transform: translateX(0)}
   to{transform:  translateX(300px)}
